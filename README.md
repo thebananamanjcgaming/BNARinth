@@ -1,11 +1,4 @@
-# Eaglerrinth
-### Eaglerrinth is the place where you can get all MODDED Eagler needs! 
-### to do
-- [x] stuff
-- [x]  Add Dedicated Mod Creator Pages
-- [x]  Catagories
-- [X] APIS
-- [ ] Add Resource Packs
-- [ ] Make Backend
-- [ ] Add Client Mods
-- [ ] ~~Eliminate Skids~~
+# BNARinth
+### BNARinth is BNA'ifed Eaglerrinth, Eaglers!
+### To do
+- [x] You're asking me? Ask yourself. -- *The website is user contributed!*
