@@ -1,4 +1,3 @@
-
 body {
     font-family: Inter, system-ui, sans-serif;
     background-color: #121212;
@@ -9,6 +8,7 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
     scrollbar-width: thin;
     scrollbar-color: #333333 #121212;
+    cursor: default !important;
 }
 
 body::-webkit-scrollbar {
