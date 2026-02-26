@@ -138,6 +138,7 @@ body::-webkit-scrollbar-thumb:hover {
 .col-lg-4,
 .col-xl-3 {
     flex: 1 1 calc(33.33% - 20px);
+    background-image: linear-gradient(to right, #d900ff, #e531f9, #f04bf5, #f860f1, #ff74ee);
     cursor: default !important;
 }
 
