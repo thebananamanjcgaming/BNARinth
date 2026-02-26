@@ -278,6 +278,6 @@ body::-webkit-scrollbar-thumb:hover {
     }
 }
 
-form-control, form-select {
+.form-control, .form-select {
     background-image: linear-gradient(to right top, #d900ff, #e531f9, #f04bf5, #f860f1, #ff74ee);
 }
