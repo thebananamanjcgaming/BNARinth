@@ -9,6 +9,7 @@ body {
     scrollbar-width: thin;
     scrollbar-color: #333333 #121212;
     cursor: default !important;
+    pointer-events: none !important;
 }
 
 body::-webkit-scrollbar {
